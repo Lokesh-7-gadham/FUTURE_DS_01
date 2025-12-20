@@ -64,17 +64,13 @@ from raw transactional data.
 
 ## 📂 Repository Structure
 FUTURE_DS_01/
-├── dataset/
-│ └── online_retail_II.xlsx
-├── powerbi_dashboard/
-│ └── online_retail_sales_dashboard.pbix
-├── screenshots/
-│ ├── dashboard_overview.png
-│ ├── top_products.png
-│ ├── monthly_trend.png
-│ └── country_revenue.png
 ├── insights/
-│ └── business_insights.txt
+│   └── business_insights.txt
+├── screenshots/
+│   ├── dashboard_overview.png
+│   ├── top_products.png
+│   ├── monthly_trend.png
+│   └── country_revenue.png
 └── README.md
 
 ---
@@ -86,5 +82,13 @@ business decision-making.
 
 ---
 
+## 📦 Large Files Notice
+Due to GitHub file size limits, the dataset and Power BI (.pbix) file
+are not uploaded to this repository.
+They can be shared upon request.
+
+---
+
 ## 🙌 Acknowledgement
 Task completed as part of the **Future Interns – Data Science & Analytics Internship**.
+
