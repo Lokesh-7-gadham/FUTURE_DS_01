@@ -1,0 +1,9 @@
+1. The United Kingdom contributes the highest share of total revenue, indicating it is the company’s primary market.
+
+2. Monthly revenue shows a clear seasonal pattern, with higher sales during festive months such as November and December.
+
+3. A small group of products (Top 10 items) contributes a significant portion of the total quantity sold, following the Pareto principle.
+
+4. Overall sales show an upward trend across months, indicating growing customer demand over time.
+
+5. International sales exist but contribute less revenue compared to the UK, suggesting potential growth opportunities in other countries.
