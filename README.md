@@ -66,6 +66,8 @@ from raw transactional data.
 FUTURE_DS_01/
 ├── insights/
 │   └── business_insights.txt
+├── powerbi_dashboard/
+│   └── Power BI dashboard details
 ├── screenshots/
 │   ├── dashboard_overview.png
 │   ├── top_products.png
@@ -83,12 +85,12 @@ business decision-making.
 ---
 
 ## 📦 Large Files Notice
-Due to GitHub file size limits, the dataset and Power BI (.pbix) file
-are not uploaded to this repository.
-They can be shared upon request.
+The dataset file is not uploaded due to GitHub file size limitations.
+It can be shared upon request.
 
 ---
 
 ## 🙌 Acknowledgement
 Task completed as part of the **Future Interns – Data Science & Analytics Internship**.
+
 
