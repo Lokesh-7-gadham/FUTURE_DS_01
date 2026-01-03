@@ -72,7 +72,8 @@ FUTURE_DS_01/
 │   ├── dashboard_overview.png
 │   ├── top_products.png
 │   ├── monthly_trend.png
-│   └── country_revenue.png
+|   ├── kpi_overview.png 
+│   ├── country_revenue.png
 └── README.md
 
 ---
@@ -92,5 +93,6 @@ It can be shared upon request.
 
 ## 🙌 Acknowledgement
 Task completed as part of the **Future Interns – Data Science & Analytics Internship**.
+
 
 
